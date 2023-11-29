@@ -1,7 +1,3 @@
-Certainly! Here's the lesson with the Perfect tense conjugation presented in a table format.
-
----
-
 ### Day 1: Advanced Grammar - Sentence Structure & Tenses
 
 #### German Sentence Structure
@@ -82,6 +78,3 @@ Certainly! Here's the lesson with the Perfect tense conjugation presented in a t
    - We traveled to Berlin last summer.
    - They worked on a project last week.
 
----
-
-Feel free to use this table as a guide for your translations and homework. If you have any questions or need further assistance, don't hesitate to ask. Viel Erfolg!
