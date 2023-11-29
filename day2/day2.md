@@ -1,6 +1,3 @@
-Certainly! Here's the complete lesson for Day 2, combining vocabulary, grammar, and homework tasks, formatted for your convenience.
-
----
 
 ### Day 2: Vocabulary Expansion and Grammar - Work and Business, Modal Verbs, Accusative Case
 
@@ -66,6 +63,3 @@ Certainly! Here's the complete lesson for Day 2, combining vocabulary, grammar, 
 2. **Create Sentences in German using the Accusative Case**:
    - Write sentences using the accusative case with business-related nouns from the vocabulary list. Include masculine, feminine, neuter, and plural nouns.
 
----
-
-This lesson structure will be maintained for the subsequent days, ensuring a consistent and effective learning experience. If you have any questions or need further assistance with the material, don't hesitate to ask. Viel Erfolg beim Lernen!
