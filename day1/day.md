@@ -1,4 +1,4 @@
-Sure, I'll reformat the lesson with a table for verb conjugations and provide specific English sentences for you to translate into German.
+Certainly! Here's the lesson with the Perfect tense conjugation presented in a table format.
 
 ---
 
@@ -15,20 +15,30 @@ Sure, I'll reformat the lesson with a table for verb conjugations and provide sp
 - Used for current or habitual actions.
 - Regular Verb Conjugation for "spielen" (to play):
 
-| Pronoun | Conjugation |
-|---------|-------------|
-| ich     | spiele      |
-| du      | spielst     |
-| er/sie/es| spielt      |
-| wir     | spielen     |
-| ihr     | spielt      |
-| sie/Sie | spielen     |
+| Pronoun    | Conjugation |
+|------------|-------------|
+| ich        | spiele      |
+| du         | spielst     |
+| er/sie/es  | spielt      |
+| wir        | spielen     |
+| ihr        | spielt      |
+| sie/Sie    | spielen     |
 
 - Example Sentence: "Ich spiele Tennis." (I play tennis.)
 
 #### Perfect Tense (Perfekt)
 - Used for completed actions in the past.
-- Formation: haben/sein + past participle.
+- Formation with "haben" and "sein":
+
+| Auxiliary Verb | Example with 'haben'     | Example with 'sein'     |
+|----------------|--------------------------|-------------------------|
+| ich            | habe gemacht (have done) | bin gegangen (have gone)|
+| du             | hast gemacht             | bist gegangen           |
+| er/sie/es      | hat gemacht              | ist gegangen            |
+| wir            | haben gemacht            | sind gegangen           |
+| ihr            | habt gemacht             | seid gegangen           |
+| sie/Sie        | haben gemacht            | sind gegangen           |
+
 - Example: "Ich habe gegessen." (I have eaten.) / "Er ist gefahren." (He has driven.)
 
 #### Vocabulary
@@ -74,4 +84,4 @@ Sure, I'll reformat the lesson with a table for verb conjugations and provide sp
 
 ---
 
-Remember to use the vocabulary and conjugation tables provided to assist with your translations. If you have any questions or need assistance, feel free to ask. Viel Erfolg!
+Feel free to use this table as a guide for your translations and homework. If you have any questions or need further assistance, don't hesitate to ask. Viel Erfolg!
