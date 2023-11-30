@@ -31,16 +31,16 @@
 
 ##### Modal Verbs
 - Express ability, necessity, obligation, or permission.
-- Example: "können" (can, to be able to)
-  
-  | Pronoun   | Conjugation |
-  |-----------|-------------|
-  | ich       | kann        |
-  | du        | kannst      |
-  | er/sie/es | kann        |
-  | wir       | können      |
-  | ihr       | könnt       |
-  | sie/Sie   | können      |
+- Translations and Conjugations:
+
+  | Verb (Translation) | ich | du  | er/sie/es | wir | ihr | sie/Sie |
+  |--------------------|-----|-----|-----------|-----|-----|---------|
+  | können (can)       | kann| kannst | kann  | können | könnt| können  |
+  | müssen (must)      | muss| musst | muss  | müssen | müsst| müssen  |
+  | sollen (should)    | soll| sollst| soll  | sollen | sollt| sollen  |
+  | wollen (want)      | will| willst| will  | wollen | wollt| wollen  |
+  | dürfen (may)       | darf| darfst| darf  | dürfen | dürft| dürfen  |
+  | mögen (like)       | mag | magst| mag   | mögen  | mögt | mögen   |
 
 ##### The Accusative Case
 - Used for the direct object of a sentence.
@@ -54,12 +54,16 @@
 #### Homework for Day 2:
 
 1. **Translate into German using Modal Verbs**:
-   - I can lead the meeting today.
-   - You must prepare the contract.
-   - She wants to present the report.
-   - We are allowed to negotiate the terms.
-   - They should research the market.
+   - I can lead the meeting. (können)
+   - You must prepare the contract. (müssen)
+   - She should present the report. (sollen)
+   - We want to negotiate with the clients. (wollen)
+   - They are allowed to invest in new technology. (dürfen)
+   - He likes to research market trends. (mögen)
 
 2. **Create Sentences in German using the Accusative Case**:
    - Write sentences using the accusative case with business-related nouns from the vocabulary list. Include masculine, feminine, neuter, and plural nouns.
 
+---
+
+This lesson should now provide a comprehensive understanding of modal verbs and their use in a business context, along with practice in the accusative case. If you have any further questions or need assistance, feel free to ask. Viel Erfolg beim Lernen!
